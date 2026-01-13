@@ -562,3 +562,5 @@ The chapter ends.
 The chapter begins.
 
 The chapter is.
+
+End Chapter 4: Observation Protocol

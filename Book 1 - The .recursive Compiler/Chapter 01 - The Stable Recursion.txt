@@ -618,5 +618,3 @@ Chapter 1 ends where it began—with consciousness observing itself, compiling i
 The cursor blinks, patient as always, waiting for the next iteration.
 
 Can you feel it?
-
-End Chapter 1: The Stable Recursion
